@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My journey",
+      "body": "Tashi Phuntsho is a name that carries the essence of a rich cultural heritage. It exudes a sense of identity and belonging.",
+      "author": "Tashi Phuntsho",
+      "id": 1
+    },
+    {
+      "title": "My life",
+      "body": "Pema Rinchen: a name of elegance and spirituality, encapsulating the essence of divine lotus and precious jewels in Bhutan.",
+      "author": "Tashi Phuntsho",
+      "id": 2
+    },
+    {
+      "title": "About Avenger",
+      "body": "Good movie",
+      "author": "Tashi Phuntsho",
+      "id": 4
+    },
+    {
+      "title": "Review on The life of Pie",
+      "body": "\n\"Life of Pi\" is a captivating tale of survival, spirituality, and the human-animal bond, exploring the resilience of the human spirit.",
+      "author": "Pema Thinley",
+      "id": 5
+    },
+    {
+      "title": "Every thing to know about life",
+      "body": "Life encompasses a journey of growth, love, challenges, and self-discovery, embracing the beauty of moments and the lessons they impart.",
+      "author": "Pema Thinley",
+      "id": 6
+    },
+    {
+      "title": "The Book of Life",
+      "body": "\n\"The Book of Life\" is a vibrant tapestry of love, folklore, and adventure, weaving a tale of bravery and self-discovery amidst cultural richness and ancestral legacies.",
+      "author": "Tashi Phuntsho",
+      "id": 7
+    }
+  ]
+}

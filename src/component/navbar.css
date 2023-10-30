@@ -1,0 +1,35 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.nav .title{
+    font-size: 40px;
+}
+
+span{
+    color: rgba(234, 0, 255, 0.904);
+}
+  
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .links a {
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 25px;
+  }
+
+  .links a :hover{
+    color: rgb(233, 115, 18);
+    transition: .3s;
+  }
+
+  .links b :hover{
+    color: rgb(233, 115, 18);
+    transition: .3s;
+  }
